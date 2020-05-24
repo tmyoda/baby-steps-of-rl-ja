@@ -1,3 +1,7 @@
+# Folk版
+このリポジトリは[本家](https://github.com/icoxfog417/baby-steps-of-rl-ja)をFolkして、TensorFlow実装から、PyTorch実装に変更したものです。<br>
+**現在改修中！**
+
 # Pythonで学ぶ強化学習 -入門から実践まで-
 
 [Pythonで学ぶ強化学習 -入門から実践まで-](https://www.amazon.co.jp/dp/4065142989/)の実装コードリポジトリです。
